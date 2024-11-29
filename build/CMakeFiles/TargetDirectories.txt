@@ -1,0 +1,3 @@
+/home/ubuntu/first/build/CMakeFiles/my_program.dir
+/home/ubuntu/first/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/first/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file,CMakeFiles/my_program.dir/link.d CMakeFiles/my_program.dir/main.cpp.o -o my_program  /home/ubuntu/first/external/leveldb/build/libleveldb.a
